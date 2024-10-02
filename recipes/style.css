@@ -1,0 +1,19 @@
+html {
+    background-color: red;
+    font-family: Verdana;
+}
+body {
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 50px;
+    padding-top: 1px;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+}
+
+strong {
+    font-family: Georgia;
+}
